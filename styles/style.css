@@ -134,7 +134,7 @@ body {
     margin-top: 40px;
 }
 
-.car-item-image:hover img {
+.car-item-image img:hover {
     transform: scale(1.1);
 }
 
